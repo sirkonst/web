@@ -1,0 +1,11 @@
+# This file requires >=portage-2.1.1
+
+# My
+
+www-servers/nginx addition fastcgi flv imap status sub webdav
+dev-db/mysql -berkdb -perl
+net-analyzer/net-snmp diskio elf smux
+dev-php5/eaccelerator contentcache sharedmem inode disassembler
+www-servers/lighttpd minimal -bzip2 -pcre -ssl
+net-ftp/proftpd authfile ban case deflate ifsession rewrite shaper sitemisc softquota
+dev-lang/php json bcmath bzip2 calendar cgi ctype curl curlwrappers discard-path exif filter force-cgi-redirect ftp gmp hash imap mhash mysql mysqli pcntl pdo posix simplexml snmp soap sockets spell suhosin sysvipc tidy tokenizer truetype wddx xml xmlreader xmlrpc xmlwriter xpm xsl zip sharedext
