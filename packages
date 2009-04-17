@@ -2,13 +2,14 @@
 
 # This file extends the base packages file for the hardened profile.
 
-*www-servers/nginx
-*app-admin/apache-tools
-*dev-db/mysql
-*dev-lang/php
-*dev-php5/suhosin
-*dev-php5/eaccelerator
-*net-ftp/proftpd
-*app-arch/unzip
-*dev-db/phpmyadmin
-*www-servers/lighttpd
+## mask (provide onlu use settings)
+#*www-servers/nginx
+#*app-admin/apache-tools
+#*dev-db/mysql
+#*dev-lang/php
+#*dev-php5/suhosin
+#*dev-php5/eaccelerator
+#*net-ftp/proftpd
+#*app-arch/unzip
+#*dev-db/phpmyadmin
+#*www-servers/lighttpd
